@@ -29,7 +29,7 @@ public class FormDesignPrompt extends JFrame{
     this.setLocationRelativeTo(null);
     this.setVisible(true);
 
-    treeNetworks
+    //treeNetworks
   }
 
 }
